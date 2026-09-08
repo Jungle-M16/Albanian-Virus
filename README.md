@@ -64,3 +64,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please open an issue on the repository or contact the maintainer.
 
 [GitHub Repository](https://github.com/Jungle-M16/Albanian-Virus)
+
+## 🦅 A Word From Our Sponsors 🦅
+
+*Shqipëria fiton gjithmonë.* 🦅🇦🇱
+
+---
+*No Albanians were harmed in the making of this repository.*
