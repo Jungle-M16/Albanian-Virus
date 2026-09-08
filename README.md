@@ -1,4 +1,4 @@
-# Albanian Virus 
+# 🇦🇱 Albanian Virus 🇦🇱
 
 Powershell Script of the popular Albanian Virus hoax.
 
